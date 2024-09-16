@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; CodeWithArhan &lpar;Arhan Ansari&rpar;
+          All Rights Reserved &copy; CodeWithArhan &lpar; Arhan Ansari &rpar;
         </Typography>
       </Box>
     </>
